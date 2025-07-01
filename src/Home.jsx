@@ -52,7 +52,7 @@ function Home() {
         <div className="bg-black bg-opacity-60 p-8 rounded">
           <h2 className="text-4xl mb-4">{data.headline}</h2>
           <p className="mb-6">{data.subheadline}</p>
-          <a href="https://wa.me/5531988158795" className="bg-white text-black py-2 px-4 rounded">Peça seu orçamento</a>
+          <a href="https://wa.me/5531988158795" target="_blank" className="bg-white text-black py-2 px-4 rounded">Peça seu orçamento</a>
         </div>
       </section>
 
